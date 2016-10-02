@@ -1,0 +1,131 @@
+.window{
+    height: 768px;
+    width: 1366px;
+    background: #C9DAE1;
+}
+.header{
+    height: 10%;
+    width: 100%;
+}
+.nameHeader{
+    height: 60%;
+    width: 98%;
+    text-align: left;
+    font-size: 30px;
+    padding: 1% 1%;
+    margin: 0% 0%;
+    border-bottom: 1px solid #dfdfdf;
+}
+.workers{
+    height: 15%;
+    width: 100%;
+}
+.titleWorkers{
+    font-size: 20px;
+    padding: 1% 0%
+}
+.admin{
+    display: block;
+    height: 25%;
+    width: 98%;
+    padding-left: 2%;
+}
+.nameAdmin{
+    width: 50%;
+    float: left;
+}
+.statusWorker{
+    width: 10%;
+    float: left;
+    text-align: center;
+}
+#eating{
+    width: 10%;
+    float: left;
+}
+.serviceStaff{
+    display: block;
+    height: 25%;
+    width: 98%;
+    padding-left: 2%;
+}
+.nameServiceStaff{
+    width: 50%;
+    float: left;
+}
+.animals{
+    height: 60%;
+    width: 100%;
+}
+.animalsHeader{
+    display: block;
+    height: 5%;
+    width: 100%;
+}
+.titleAnimals{
+    font-size: 20px;
+    width: 40%;
+    float: left;
+}
+.eat{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.weater{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.statusAnimals{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.titleCarnivorous{
+    display: block;
+    height: 5%;
+    width: 98%;
+    padding-left: 2%;
+    font-size: 18px;
+}
+.carnivorous{
+    display: block;
+    height: 20%;
+    width: 100%;
+}
+.nameAnimal{
+    font-size: 15px;
+    width: 37%;
+    float: left;
+    padding-left: 3%;
+ }
+.numEat{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.numWeater{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.numStatusAnimals{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.titleHerbivorous{
+    display: block;
+    height: 5%;
+    width: 98%;
+    padding-left: 2%;
+    font-size: 18px;
+}
+.herbivorous{
+    display: block;
+    height: 5%;
+    width: 100%;
+}
+
+
